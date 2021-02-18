@@ -1,8 +1,7 @@
 # Tesco Finance Backend
 
-Backend for Tesco Finance prototype (Speakers for Schools vwex) to supply core functionality for the application to the react frontend.
-
-by Arvin Abdollahzadeh
+Prototype backend for Tesco Finance, created as part of the Tesco Technology Work Experience programme.
+Not otherwise affiliated with Tesco plc.
 
 Todo:
 
