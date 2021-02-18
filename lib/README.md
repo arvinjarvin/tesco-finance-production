@@ -1,0 +1,1 @@
+`/lib` for modified packages

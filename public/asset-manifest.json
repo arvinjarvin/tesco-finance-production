@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4bd8df89.chunk.css",
+    "main.js": "/static/js/main.eb567321.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.4a28fb6d.js",
+    "static/js/2.52b311b8.chunk.js": "/static/js/2.52b311b8.chunk.js",
+    "index.html": "/index.html",
+    "static/js/2.52b311b8.chunk.js.LICENSE.txt": "/static/js/2.52b311b8.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/tesco-icons.da280a09.svg",
+    "static/media/blue.8327dee9.jpg": "/static/media/blue.8327dee9.jpg",
+    "static/media/logo.8a510a2c.svg": "/static/media/logo.8a510a2c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a28fb6d.js",
+    "static/js/2.52b311b8.chunk.js",
+    "static/css/main.4bd8df89.chunk.css",
+    "static/js/main.eb567321.chunk.js"
+  ]
+}

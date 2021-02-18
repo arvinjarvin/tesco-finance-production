@@ -1,0 +1,45 @@
+{
+  "name": "@tesco/finance-backend",
+  "proxy": "http://localhost:80",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "author": "Arvin Abdollahzadeh",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "aws-sdk": "^2.845.0",
+    "bcryptjs": "^2.4.3",
+    "chalk": "^4.1.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "csurf": "^1.11.0",
+    "doctrine": "^3.0.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-jsdoc-swagger": "file:lib/express-jsdoc-swagger",
+    "express-mongo-sanitize": "^2.0.2",
+    "fs": "0.0.1-security",
+    "glob": "^7.1.6",
+    "helmet": "^4.4.1",
+    "hpp": "^0.2.3",
+    "http": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "merge": "^2.1.0",
+    "mongoose": "^5.11.15",
+    "morgan": "^1.10.0",
+    "normalize-mongoose": "0.0.1",
+    "path": "^0.12.7",
+    "polygon.io": "^2.0.2",
+    "swagger-ui-express": "^4.1.6",
+    "url": "^0.11.0",
+    "ws": "^7.4.3",
+    "xss-clean": "^0.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.20.0",
+    "nodemon": "^2.0.7"
+  }
+}
